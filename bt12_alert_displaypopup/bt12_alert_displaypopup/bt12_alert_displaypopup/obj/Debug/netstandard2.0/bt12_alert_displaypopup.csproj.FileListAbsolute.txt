@@ -1,0 +1,15 @@
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\bin\Debug\netstandard2.0\bt12_alert_displaypopup.deps.json
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\bin\Debug\netstandard2.0\bt12_alert_displaypopup.dll
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\bin\Debug\netstandard2.0\bt12_alert_displaypopup.pdb
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\bt12_alert_displaypopup.csproj.AssemblyReference.cache
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\bt12_alert_displaypopup.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\bt12_alert_displaypopup.AssemblyInfoInputs.cache
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\bt12_alert_displaypopup.AssemblyInfo.cs
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\bt12_alert_displaypopup.csproj.CoreCompileInputs.cache
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\XamlC.stamp
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\bt12_alert_displaypopup.dll
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\refint\bt12_alert_displaypopup.dll
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\bt12_alert_displaypopup.pdb
+D:\HK7\Mobile\thuchanh\bt12_alert_displaypopup\bt12_alert_displaypopup\bt12_alert_displaypopup\obj\Debug\netstandard2.0\ref\bt12_alert_displaypopup.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bx4wqhA+6fA/Fl92F5CTiYEAFqsZXHmmXFNcx6B0f6wsvGh2/Hw6P5PUfumTwaqrnjfp7E+GCY3vtk4rHTo7Lg==",
+  "success": true,
+  "projectFilePath": "D:\\HK7\\Mobile\\thuchanh\\bt8_convert\\bt8_convert\\bt8_convert\\bt8_convert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dang\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dang\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dang\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dang\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Dang\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\bin\Debug\netstandard2.0\bt8_convert.deps.json
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\bin\Debug\netstandard2.0\bt8_convert.dll
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\bin\Debug\netstandard2.0\bt8_convert.pdb
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\bt8_convert.csproj.AssemblyReference.cache
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\bt8_convert.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\bt8_convert.AssemblyInfoInputs.cache
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\bt8_convert.AssemblyInfo.cs
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\bt8_convert.csproj.CoreCompileInputs.cache
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\XamlC.stamp
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\bt8_convert.dll
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\refint\bt8_convert.dll
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\bt8_convert.pdb
+D:\HK7\Mobile\thuchanh\bt8_convert\bt8_convert\bt8_convert\obj\Debug\netstandard2.0\ref\bt8_convert.dll

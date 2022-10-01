@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="bt8_convert.MainPage">
+
+    <ContentPage.Resources>
+        <!--Format entry-->
+        <Style TargetType="Entry">
+            <Setter Property="FontSize" Value="22"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="pad"
+        </Style>
+
+        <!--Format button-->
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="BorderColor" Value="DarkBlue"/>
+            <Setter Property="BorderWidth" Value="2"/>
+            <Setter Property="BackgroundColor" Value="Transparent"/>
+            <Setter Property="CornerRadius" Value="5"/>
+            <Setter Property="Margin" Value="5"/>
+
+            <Style.Triggers>
+                <Trigger TargetType="Button" Property="IsPressed" Value="True">
+                    <Setter Property="Margin" Value="0,0,0,5"/>
+                    <Setter Property="Background" Value="LightGreen"/>
+                    <Setter Property="BorderColor" Value="Transparent"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </ContentPage.Resources>
+    
+    
+    <StackLayout Spacing="20">
+        <Label Text="Convert Temperature" FontSize="30" HorizontalOptions="Center" Margin="10"/>
+        <Entry x:Name="entryCel" Placeholder="Celcius" Text="{Binding Cel, Mode=OneWayToSource,StringFormat='{0:F0}°C'}" Keyboard="Numeric" Focused="entryCel_Focused" />
+        <Entry x:Name="entryFah" Placeholder="Fahrenheit" Text="{Binding Fah, Mode=OneWayToSource, StringFormat='{0:F0}°F'}" Keyboard="Numeric" Focused="entryFah_Focused" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" Text="To Celsius" HorizontalOptions="FillAndExpand"
+                    x:Name="btnToCel" Clicked="btnToCel_Clicked"/>
+            <Button Grid.Column="1"  Text="To Fahrenheit" HorizontalOptions="FillAndExpand"
+                    x:Name="btnToFah" Clicked="btnToFah_Clicked"/>
+        </Grid>
+        <Button Text="Clear"
+                x:Name="btnClear" Clicked="btnClear_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
+ 

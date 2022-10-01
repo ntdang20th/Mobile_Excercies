@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9Op6PMbiTtWz8Xyh4pMNR0N9RUseQ/qB9GBNDMPXmJiISBqmC2l0F5dbBcSXVEKbYRFzoXgBBFnBOlnZKtouA==",
+  "success": true,
+  "projectFilePath": "D:\\HK7\\Mobile\\thuchanh\\bt8_convert\\bt8_convert\\bt8_convert.iOS\\bt8_convert.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dang\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dang\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Dang\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

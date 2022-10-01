@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="bt12_alert_displaypopup.MainPage"
+             BackgroundImageSource="bg">
+
+    <Grid>
+        <Frame BackgroundColor="#00DFFF" Opacity="0.4"/>
+        <StackLayout Spacing="0">
+            <Label Text="GENSHIN IMPACT" FontSize="40" FontFamily="Montserrat" 
+                   HorizontalOptions="Center" FontAttributes="Bold" TextColor="White" Margin="0,150,0,130"/>
+
+
+            <RelativeLayout>
+                <StackLayout
+                      RelativeLayout.XConstraint="{ConstraintExpression Type=Constant, Constant=8}"
+                      RelativeLayout.YConstraint="{ConstraintExpression Type=Constant, Constant=8}"
+                      RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-16}"
+                      RelativeLayout.HeightConstraint="{ConstraintExpression Type=Constant, Constant=48}"
+                      Orientation="Horizontal">
+                    <Image Source="user" Scale="0.7"></Image>
+                    <Entry x:Name="Username" Placeholder="Username" FontSize="20"
+                           HorizontalOptions="FillAndExpand" TextColor="White" PlaceholderColor="White"/>
+                    
+                </StackLayout>
+            </RelativeLayout>
+            
+            
+            <RelativeLayout>
+                <StackLayout
+                      RelativeLayout.XConstraint="{ConstraintExpression Type=Constant, Constant=8}"
+                      RelativeLayout.YConstraint="{ConstraintExpression Type=Constant, Constant=8}"
+                      RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Constant=-16}"
+                      RelativeLayout.HeightConstraint="{ConstraintExpression Type=Constant, Constant=48}"
+                      Orientation="Horizontal">
+                    <Image Source="password" Scale="0.7"></Image>
+                    <Entry x:Name="password" Placeholder="Password" FontSize="20" IsPassword="True"
+                           HorizontalOptions="FillAndExpand" TextColor="White" PlaceholderColor="White"/>
+
+                </StackLayout>
+            </RelativeLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <CheckBox Margin="50,0,0,0" x:Name="ckbRemember"/>
+                <Label Text="Remember password" VerticalTextAlignment="Center" TextColor="White" FontSize="16"/>
+            </StackLayout>
+
+            <Button Text="LOGIN" Clicked="Button_Clicked"
+                    Background="#FF00DF" Opacity="0.75"
+                            TextColor="White"
+                            FontSize="22"
+                            FontFamily="Montserrat"
+                    HorizontalOptions="Center"
+                    WidthRequest="180"
+                    HeightRequest="60"
+                    CornerRadius="30"
+                    Margin="0,30"/>
+
+            <StackLayout Orientation="Horizontal"
+                                HorizontalOptions="Center"
+                                Margin="0,0,0,150">
+
+                <Label Text="Forgot password?"
+                       FontSize="16"
+                                   TextColor="LightGray"
+                                   FontAttributes="Bold"
+                                   FontFamily="Montserrat"/>
+
+                <Label Text="Reset"
+                                  TextColor="White"
+                                   FontSize="16"
+                                   FontAttributes="Bold"
+                                   Margin="6,0,0,0"/>
+            </StackLayout>
+            
+        </StackLayout>
+    </Grid>
+
+</ContentPage>
